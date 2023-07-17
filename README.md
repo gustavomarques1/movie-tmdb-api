@@ -2,6 +2,7 @@
 Catálogo de filmes populares consumindo API tmdb.
 
 Requisitos
+
 Abra o terminal
 
 Clone o projeto e acesse a pasta 
