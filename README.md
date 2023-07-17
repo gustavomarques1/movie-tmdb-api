@@ -2,8 +2,10 @@
 Catálogo de filmes populares consumindo API tmdb.
 
 Requisitos
+Abra o terminal
+
 Clone o projeto e acesse a pasta 
-$https://github.com/gustavomarques1/movie-tmdb-api.git
+https://github.com/gustavomarques1/movie-tmdb-api.git
 
 cd movie-tmdb-api
 
